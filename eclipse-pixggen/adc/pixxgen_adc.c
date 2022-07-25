@@ -201,7 +201,7 @@ static int pixxgen_read(struct file *file, char __user *buff,
 
 /* declare ioctl_function */
 static long pixxgen_ioctl(struct file *file, unsigned int cmd, unsigned long arg)
-{
+{ 
 //	static struct ioctl_info info;
 	struct pixxgen_adc *pixxgen_private;
 	struct device *dev;

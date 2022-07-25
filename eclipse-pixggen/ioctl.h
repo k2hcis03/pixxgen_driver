@@ -1,6 +1,6 @@
 #ifndef IOCTL_H_
 #define IOCTL_H_
-
+ 
 struct __attribute__((packed)) ioctl_info {
 	u8 exout[8];
 	u8 exin[3];
