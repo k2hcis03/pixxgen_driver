@@ -2,8 +2,9 @@
  * pixxgen.c
  *
  *  Created on: 2021. 10. 21.
- *      Author: k2h
+ *      Author: k2h test
  */
+// git hub test
 #include <linux/module.h>
 #include <linux/fs.h>
 #include <linux/device.h>
