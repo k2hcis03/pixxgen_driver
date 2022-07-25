@@ -1,8 +1,8 @@
 /*
  * pixxgen.c
  *
- *  Created on: 2021. 6. 15.
- *      Author: k2h
+ *  Created on: 2021. 6. 15. 
+ *      Author: k2h test
  */
 #include <linux/module.h>
 #include <linux/fs.h>
